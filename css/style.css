@@ -1,0 +1,231 @@
+body {
+    background: #E5E5E5;
+}
+
+.container {
+    position: absolute;
+    width: 1100px;
+    height: 800px;
+    background: #C4C4C4;
+}
+
+.container-header{
+    display: block;
+    margin: 50px ;
+    position: absolute;
+    width: 1000px;
+    height: 200px;
+    background: #E6E6E6;
+    float: right;
+}
+
+.container1 {
+    float: left;
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F;
+}
+
+h1 {
+    width: 200px;
+    height: 74px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 74px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 62px;
+    margin-bottom: 62px;
+}
+
+.container2 {
+    float: right;
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F;
+}
+
+h2 {
+    width: 200px;
+    height: 74px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 74px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 62px;
+    margin-bottom: 62px;
+}
+
+.container-center {
+    display: inline-block;
+    margin: 300px 50px 50px;
+    position: absolute;
+    width: 1000px;
+    height: 200px;
+    background: #E6E6E6;
+}
+
+.container-center1 {
+    float: left;
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F;
+}
+
+h3 {
+    width: 200px;
+    height: 74px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 74px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 62px;
+    margin-bottom: 62px;
+}
+
+.container-center5 {
+    width: 100px;
+    height: 100px;
+    float: right;
+    background: #FC8F8F;
+}
+
+p {
+    margin-top: 32px;
+    margin-bottom: 32px;
+    width: 100px;
+    height: 38px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 42px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.container-center4 {
+    width: 100px;
+    height: 100px;
+    float: right;
+    margin-right: 15px;
+    background: #FC8F8F;
+}
+
+.container-center3 {
+    width: 100px;
+    height: 100px;
+    float: right;
+    margin-right: 15px;
+    background: #FC8F8F;
+}
+
+.container-center2 {
+    width: 100px;
+    height: 100px;
+    float: right;
+    margin-right: 15px;
+    background: #FC8F8F;
+}
+
+.container-footer {
+    position: absolute;
+    margin: 550px 50px 50px;
+    width: 1000px;
+    height: 200px;
+    background: #E6E6E6;
+}
+
+.container-footer1 {
+    float: left;
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F;
+}
+
+.number1 {
+    width: 200px;
+    height: 74px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 74px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 62px;
+    margin-bottom: 62px;
+}
+
+.container-footer2 {
+    float: left;
+    margin-left: 15px;
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F;
+}
+
+.number2 {
+    width: 200px;
+    height: 74px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 74px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 62px;
+    margin-bottom: 62px;
+}
+
+.container-footer4 {
+    float: right;
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F;
+}
+
+.number4 {
+    width: 200px;
+    height: 74px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 74px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 62px;
+    margin-bottom: 62px;
+}
+
+.container-footer3 {
+    float: right;
+    margin-right: 15px;
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F;
+}
+
+.number3 {
+    width: 200px;
+    height: 74px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 74px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 62px;
+    margin-bottom: 62px;
+}
